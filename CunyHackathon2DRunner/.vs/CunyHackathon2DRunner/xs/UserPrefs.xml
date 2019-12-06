@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{778CE5F0-6165-AF0B-08F8-A88F997B69B2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Mainmenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Mainmenu.cs" Line="16" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CunyHackathon2DRunner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Mainmenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b2b68c6-2fdc-42bb-8d10-3692c3402fa7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
